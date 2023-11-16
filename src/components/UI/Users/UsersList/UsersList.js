@@ -1,5 +1,5 @@
 import React from 'react'
-import Card from '../Card/Card'
+import Card from '../../Card/Card'
 import classes from './UsersList.module.css'
 
 const UsersList = props => {
